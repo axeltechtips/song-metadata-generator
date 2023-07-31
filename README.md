@@ -1,3 +1,6 @@
+# FORK EDIT:
+This fork lets you run WAV's instead of just MP3's. Make sure to have FFMPEG and FFPROBE in your path!
+
 # song-metadata-generator
 A Python Script that uses mutagen to add metadata to a song file.
 
